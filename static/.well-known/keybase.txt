@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/zeph
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brandon-sachs.com
+  * I am zeph (https://keybase.io/zeph) on keybase.
+  * I have a public key with fingerprint 391C F44B 0E38 89A7 CC01  B53C FA52 656B F3DE 41A4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101986ad9228325d21a137bcdb7ddc6469cf70905ba1c91246d94eab1571b674c420a",
+            "fingerprint": "391cf44b0e3889a7cc01b53cfa52656bf3de41a4",
+            "host": "keybase.io",
+            "key_id": "fa52656bf3de41a4",
+            "kid": "0101986ad9228325d21a137bcdb7ddc6469cf70905ba1c91246d94eab1571b674c420a",
+            "uid": "f120a37e9988ca21e821ed9bb5a48f00",
+            "username": "zeph"
+        },
+        "service": {
+            "hostname": "brandon-sachs.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1456594364,
+    "expire_in": 157680000,
+    "prev": "274d8538ba50235ebe89972a3060f7cffe03b86a26f7bb83b2603f6f8126ebec",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMNBAnicrVJrTBRXFF6wgoJbtolSLAg4IdXUXTvvx6YqiGAXUtuaVKRC6dyZOzAC
+M9vZZQV5SJtGxCaVh1VE0LQsDcaElphSGgELaoSlQfEHUQiFqhFIqsjDIAViZ6z9
+15+9yc3NOef7vvOdk3vNvMIU5PfXXpg9+3uc16+v63Sead/ASHshAlSxALEXItnw
+xQNzROhyZ2TLImJHUAzFOJbmRQ7HWQKnRBzjMYIBgggYURRokuYEiUE5lAI8JnAY
+TtIiR0IeYBSDAZohBRJHecSKSLKSCTWnJituXZbgMEEiSYBCgmU5nhEEFAMUIUg8
+hdMUDSRChCTGkzoxS3UZDN0c4F1wq6zqOT3IeGHvP/D/s++8f/pgekQwkONYVuBx
+DLL6FTkAKJ5kJRQ1gC6oKXwu1NGHoTMLKbYiesYjC9BYqjHFyyrQeEVUFZuLF7Jc
+WwU1Vyc7NdWtCmqOXs5yu512g+0ucBrwQxBkvBTKALIi6nvUCR6ouWRVQeyYjhTc
+sqGMkRRNcSRBk1YE5jtlDWbIBoJiaBbVj9EGenRJnCFFliJYwFMoTlAQQJbjGJwn
+UBqVGEGSIEoAfXk4LTEAsATAaZSQaInFcFoHC4gx2meKitg53SafqUu65EyFd+dp
+ECnu7kp7xeQXZApY6W/8L1PQasu/v87/dYvJe3E7HxI4Yf9tdGqu1Cd8f+Lhqjth
+1sUN+Q/izHEzzU/HbKN53X3VPddK3L8sdgZPfzMQ2jI0lrN+sX44cSTZKe1r8usi
+79kiNn9SlfAEDp4tgxVJ+BsRsesSEjcNmLaNR7tcDRtqfQ7p8mxXzq8TTr/7KT+/
+9jz61JWeC+8H9iad7I2vC5jZeTA2Pv65dee3a6YaxhsWTq9UytqX5/s/bXPEKodl
+YlIW068+btmR/vGZZ1/y7xWpG+vib5FtpY7I9PHSaen8SFV1+4Gju8oj9y4zrccq
+h+8Ss/2Wt1K50fLBG3crHu9q0cSLBR1fhR1L7R0OCGtdW1lR9EX0dlCdy9cMF6WU
+BNXZNGsHjEpKRbWbQ0e4VcsRXQfh9dG6Dk/v2ZBxX5otpvNZ6Lw5yquEPEx3nLBN
+TB94c775/lTK7S1Vd2wfzuw2r1YWlITGhMjsRHTjycZ3SpxvP2W8tSFtBU2enzpD
+T/34+VBIRWnR2uvepA96PNgjX6dlcOzdwGz1xg+3ooMvTb56odlsqTeDjnXuxgC1
+e+nSTd+Z/AdtCfR6+6O5mMq05rbc+pj48G7rxKbg5M1h/kvf2Zu+Pp5+qHe6Kif5
+6n5B2vbR5TKt8PY9BOuu6Q+v7XO0HLHseHJlj7ZlxbnWojrxT25ud/n+pj/WjPQ7
+zy9EFR9d8s4ipZM1heF/A8HXxW4=
+=5iKc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zeph
+
+==================================================================
