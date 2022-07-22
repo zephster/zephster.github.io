@@ -69,13 +69,8 @@ paginate = 5
     owner = "brandon sachs"
     keywords = ""
     copyright = "brandon sachs"
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+    missingContentMessage = "The Princess is in another castle..."
+    missingBackButtonLabel = "home"
 
     [languages.en.params.logo]
       logoText = "const brandonSachs Engineer"

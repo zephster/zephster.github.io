@@ -5,4 +5,4 @@ showFullContent = true
 
 #### current position
 
-director of engineering, [StudioDesigner](https://www.studiodesigner.com/)
+director of engineering [@](https://twitter.com/_studiodesigner) [StudioDesigner](https://www.studiodesigner.com/)
