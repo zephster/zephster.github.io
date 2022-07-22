@@ -1,10 +1,8 @@
 +++
 title = "brandonSachs.About()"
-author = ""
-authorTwitter = "" #do not include @
-description = ""
 showFullContent = true
-draft = false
 +++
 
-and also out here
+#### current position
+
+director of engineering, [StudioDesigner](https://www.studiodesigner.com/)

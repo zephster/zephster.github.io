@@ -80,13 +80,3 @@ paginate = 5
     [languages.en.params.logo]
       logoText = "const brandonSachs Engineer"
       logoHomeLink = "/"
-
-#     [languages.en.menu]
-#       [[languages.en.menu.main]]
-#         identifier = "about"
-#         name = "About"
-#         url = "/about"
-#       [[languages.en.menu.main]]
-#         identifier = "showcase"
-#         name = "Showcase"
-#         url = "/showcase"
