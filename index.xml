@@ -7,14 +7,14 @@ AlbumSnapper
 AlbumSnapper is a tweak for jailbroken iOS devices that adds an album selection feature to the stock Apple camera app, allowing you to quickly organize your pictures and create new albums on the fly.</description><content>&lt;h4 id="legacy-projects">legacy projects&lt;/h4>
 &lt;blockquote>
 &lt;p>&lt;a href="https://www.google.com/search?q=RadioEnhancer">RadioEnhancer&lt;/a> (aka &lt;a href="https://lifehacker.com/pandoraenhancer-for-chrome-removes-ads-adds-desktop-no-5854169">PandoraEnhancer&lt;/a>)&lt;/p>
-&lt;img src="http://brandon-sachs.com/img/radioenhancer.png" alt="Hello Friend" class="left" style="float: left; margin: 5px 20px 0; border-radius: 4px;" />
+&lt;img src="http://brandon-sachs.com/img/radioenhancer.png" alt="RadioEnahncer" class="left" style="float: left; margin: 5px 20px 0; border-radius: 4px;" />
 &lt;p>Google Chrome extension that removes ads, scrobbles to Last.fm, displays song change notifications, and improves Pandora&amp;rsquo;s awesome HTML5 interface.&lt;/p>
 &lt;p>It&amp;rsquo;s been featured on sites such as &lt;a href="http://lifehacker.com/5854169/pandoraenhancer-for-chrome-removes-ads-adds-desktop-notifications-for-song-changes">Lifehacker&lt;/a> and a &lt;a href="https://www.google.com/search?q=pandoraenhancer">whole lot of others&lt;/a>.&lt;/p>
 &lt;p>At it&amp;rsquo;s peak, RadioEnhancer had over 63,000 active users.&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://www.google.com/search?q=AlbumSnapper">AlbumSnapper&lt;/a>&lt;/p>
-&lt;img src="http://brandon-sachs.com/img/cydia.png" alt="Hello Friend" class="left" style="float: left; margin: 5px 20px 0;" />
+&lt;img src="http://brandon-sachs.com/img/cydia.png" alt="Cydia, by Jay Freeman" class="left" style="float: left; margin: 5px 20px 0;" />
 &lt;p>AlbumSnapper is a tweak for jailbroken iOS devices that adds an album selection feature to the stock Apple camera app, allowing you to quickly organize your pictures and create new albums on the fly.&lt;/p>
 &lt;p>I spent a week reversing Camera.app for this, it was a ton of fun!&lt;/p>
 &lt;p>AlbumSnapper was featured on sites such as &lt;a href="http://www.idownloadblog.com/2014/05/17/albumsnapper/">iDownloadBlog&lt;/a>, &lt;a href="http://modmyi.com/content/14979-albumsnapper-lets-you-easily-organize-your-photos-you-take-them.html">ModMyI&lt;/a>, &lt;a href="https://www.google.com/search?q=AlbumSnapper">and more&lt;/a>. It can be found in the default repositories used by &lt;a href="http://en.wikipedia.org/wiki/Cydia">Cydia&lt;/a> for $0.99.&lt;/p>
@@ -22,7 +22,7 @@ AlbumSnapper is a tweak for jailbroken iOS devices that adds an album selection 
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://github.com/zephster/comiCal">comiCal&lt;/a>&lt;/p>
-&lt;img src="http://brandon-sachs.com/img/python.png" alt="Hello Friend" class="left" style="float: left; margin: 0px 20px 0;" />
+&lt;img src="http://brandon-sachs.com/img/python.png" alt="Snake Jazz" class="left" style="float: left; margin: 0px 20px 0;" />
 &lt;p>Looks up comic release dates from supported publishers websites (DC, Marvel, Image) and puts them on your Google Calendar.&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
