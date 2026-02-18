@@ -1,33 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>brandon sachs; software engineer</title><link>https://zephster.github.io/</link><description>Recent content on brandon sachs; software engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>brandon sachs</copyright><atom:link href="https://zephster.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>brandonSachs.About()</title><link>https://zephster.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zephster.github.io/about/</guid><description>florida man, but not the bad kind. i&amp;rsquo;m a normal guy who still likes legos as an adult. totally normal.
-proficient with lots of languages and technologies; currently working with go, typescript+rxjs, graphql, postgresql, ecs/ecr/elb/etc&amp;hellip;
-director of engineering @ StudioDesigner</description><content>&lt;p>florida man, but not the bad kind. i&amp;rsquo;m a normal guy who still likes legos as an adult. totally normal.&lt;/p>
-&lt;p>proficient with lots of languages and technologies; currently working with &lt;a href="https://go.dev">go&lt;/a>, &lt;a href="https://www.typescriptlang.org">typescript&lt;/a>+&lt;a href="https://rxjs.dev">rxjs&lt;/a>, &lt;a href="https://graphql.org">graphql&lt;/a>, &lt;a href="https://www.postgresql.org">postgresql&lt;/a>, &lt;a href="https://aws.amazon.com/">ecs/ecr/elb/etc&amp;hellip;&lt;/a>&lt;/p>
-&lt;p>director of engineering &lt;a href="https://twitter.com/_studiodesigne">@&lt;/a> &lt;a href="https://www.studiodesigner.com">StudioDesigner&lt;/a>&lt;/p></content></item><item><title>brandonSachs.Projects()</title><link>https://zephster.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zephster.github.io/projects/</guid><description>legacy projects RadioEnhancer (aka PandoraEnhancer)
-Google Chrome extension that removes ads, scrobbles to Last.fm, displays song change notifications, and improves Pandora&amp;rsquo;s awesome HTML5 interface.
-It&amp;rsquo;s been featured on sites such as Lifehacker and a whole lot of others.
-At it&amp;rsquo;s peak, RadioEnhancer had over 63,000 active users.
-AlbumSnapper
-AlbumSnapper is a tweak for jailbroken iOS devices that adds an album selection feature to the stock Apple camera app, allowing you to quickly organize your pictures and create new albums on the fly.</description><content>&lt;h4 id="legacy-projects">legacy projects&lt;/h4>
-&lt;blockquote>
-&lt;p>&lt;a href="https://www.google.com/search?q=RadioEnhancer">RadioEnhancer&lt;/a> (aka &lt;a href="https://lifehacker.com/pandoraenhancer-for-chrome-removes-ads-adds-desktop-no-5854169">PandoraEnhancer&lt;/a>)&lt;/p>
-&lt;img src="http://brandon-sachs.com/img/radioenhancer.png" alt="RadioEnahncer" class="left" style="float: left; margin: 5px 20px 0; border-radius: 4px;" />
-&lt;p>Google Chrome extension that removes ads, scrobbles to Last.fm, displays song change notifications, and improves Pandora&amp;rsquo;s awesome HTML5 interface.&lt;/p>
-&lt;p>It&amp;rsquo;s been featured on sites such as &lt;a href="http://lifehacker.com/5854169/pandoraenhancer-for-chrome-removes-ads-adds-desktop-notifications-for-song-changes">Lifehacker&lt;/a> and a &lt;a href="https://www.google.com/search?q=pandoraenhancer">whole lot of others&lt;/a>.&lt;/p>
-&lt;p>At it&amp;rsquo;s peak, RadioEnhancer had over 63,000 active users.&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>&lt;a href="https://www.google.com/search?q=AlbumSnapper">AlbumSnapper&lt;/a>&lt;/p>
-&lt;img src="http://brandon-sachs.com/img/cydia.png" alt="Cydia, by Jay Freeman" class="left" style="float: left; margin: 5px 20px 0;" />
-&lt;p>AlbumSnapper is a tweak for jailbroken iOS devices that adds an album selection feature to the stock Apple camera app, allowing you to quickly organize your pictures and create new albums on the fly.&lt;/p>
-&lt;p>I spent a week reversing Camera.app for this, it was a ton of fun!&lt;/p>
-&lt;p>AlbumSnapper was featured on sites such as &lt;a href="http://www.idownloadblog.com/2014/05/17/albumsnapper/">iDownloadBlog&lt;/a>, &lt;a href="http://modmyi.com/content/14979-albumsnapper-lets-you-easily-organize-your-photos-you-take-them.html">ModMyI&lt;/a>, &lt;a href="https://www.google.com/search?q=AlbumSnapper">and more&lt;/a>. It can be found in the default repositories used by &lt;a href="http://en.wikipedia.org/wiki/Cydia">Cydia&lt;/a> for $0.99.&lt;/p>
-&lt;p>Reading this, using a very old version of iOS (6/7) for some reason, and want a free copy? Drop me a line!&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>&lt;a href="https://github.com/zephster/comiCal">comiCal&lt;/a>&lt;/p>
-&lt;img src="http://brandon-sachs.com/img/python.png" alt="Snake Jazz" class="left" style="float: left; margin: 0px 20px 0;" />
-&lt;p>Looks up comic release dates from supported publishers websites (DC, Marvel, Image) and puts them on your Google Calendar.&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>&lt;a href="https://www.google.com/search?q=cydia+%22matchinmusic%22">MatchInMusic&lt;/a>, &lt;a href="https://www.google.com/search?q=cydia+%22in+a+minute%22">In A Minute&lt;/a>, &lt;a href="https://github.com/zephster">etc&lt;/a>..&lt;/p>
-&lt;/blockquote></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>brandon sachs; software engineer</title><link>https://zephster.github.io/</link><description>Recent content on brandon sachs; software engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>brandon sachs</copyright><atom:link href="https://zephster.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>brandonSachs.About()</title><link>https://zephster.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zephster.github.io/about/</guid><description>&lt;p&gt;florida man, but not the bad kind. i&amp;rsquo;m a normal guy who still likes legos as an adult. totally normal.&lt;/p&gt;
+&lt;p&gt;proficient with lots of languages and technologies; currently working with/interested in &lt;a href="https://learn.microsoft.com/en-us/dotnet/csharp/"&gt;c#&lt;/a&gt;, &lt;a href="https://go.dev"&gt;go&lt;/a&gt;, node/&lt;a href="https://www.typescriptlang.org"&gt;typescript&lt;/a&gt;, mssql/&lt;a href="https://www.postgresql.org"&gt;postgresql&lt;/a&gt;, &lt;a href="https://aws.amazon.com/"&gt;ec2/ecs/ecr/elb/ssm/etc&amp;hellip;&lt;/a&gt;, designing and building infrastructure for e2e testing and ci/cd + rapid development with &lt;a href="https://azure.microsoft.com/en-us/products/devops"&gt;azure devops&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;hobbying around with &lt;a href="https://www.home-assistant.io/"&gt;home assistant&lt;/a&gt; automations and &lt;a href="https://old.reddit.com/r/homelab/"&gt;homelab&lt;/a&gt; stuff in general.&lt;/p&gt;
+&lt;p&gt;director of engineering &lt;a href="https://twitter.com/_studiodesigner"&gt;@&lt;/a&gt; &lt;a href="https://www.studiodesigner.com"&gt;StudioDesigner&lt;/a&gt;&lt;/p&gt;</description><content>&lt;p&gt;florida man, but not the bad kind. i&amp;rsquo;m a normal guy who still likes legos as an adult. totally normal.&lt;/p&gt;
+&lt;p&gt;proficient with lots of languages and technologies; currently working with/interested in &lt;a href="https://learn.microsoft.com/en-us/dotnet/csharp/"&gt;c#&lt;/a&gt;, &lt;a href="https://go.dev"&gt;go&lt;/a&gt;, node/&lt;a href="https://www.typescriptlang.org"&gt;typescript&lt;/a&gt;, mssql/&lt;a href="https://www.postgresql.org"&gt;postgresql&lt;/a&gt;, &lt;a href="https://aws.amazon.com/"&gt;ec2/ecs/ecr/elb/ssm/etc&amp;hellip;&lt;/a&gt;, designing and building infrastructure for e2e testing and ci/cd + rapid development with &lt;a href="https://azure.microsoft.com/en-us/products/devops"&gt;azure devops&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;hobbying around with &lt;a href="https://www.home-assistant.io/"&gt;home assistant&lt;/a&gt; automations and &lt;a href="https://old.reddit.com/r/homelab/"&gt;homelab&lt;/a&gt; stuff in general.&lt;/p&gt;
+&lt;p&gt;director of engineering &lt;a href="https://twitter.com/_studiodesigner"&gt;@&lt;/a&gt; &lt;a href="https://www.studiodesigner.com"&gt;StudioDesigner&lt;/a&gt;&lt;/p&gt;</content></item><item><title>brandonSachs.Projects()</title><link>https://zephster.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zephster.github.io/projects/</guid><description>&lt;h4 id="legacy-projects"&gt;legacy projects&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://www.google.com/search?q=RadioEnhancer"&gt;RadioEnhancer&lt;/a&gt; (aka &lt;a href="https://lifehacker.com/pandoraenhancer-for-chrome-removes-ads-adds-desktop-no-5854169"&gt;PandoraEnhancer&lt;/a&gt;)&lt;/p&gt;
+&lt;img src="http://brandon-sachs.com/img/radioenhancer.png" alt="RadioEnahncer" class="left" style="float: left; margin: 5px 20px 0; border-radius: 4px;" /&gt;
+&lt;p&gt;Google Chrome extension that removes ads, scrobbles to Last.fm, displays song change notifications, and improves Pandora&amp;rsquo;s awesome HTML5 interface.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been featured on sites such as &lt;a href="http://lifehacker.com/5854169/pandoraenhancer-for-chrome-removes-ads-adds-desktop-notifications-for-song-changes"&gt;Lifehacker&lt;/a&gt; and a &lt;a href="https://www.google.com/search?q=pandoraenhancer"&gt;whole lot of others&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;At it&amp;rsquo;s peak, RadioEnhancer had over 63,000 active users.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://www.google.com/search?q=AlbumSnapper"&gt;AlbumSnapper&lt;/a&gt;&lt;/p&gt;
+&lt;img src="http://brandon-sachs.com/img/cydia.png" alt="Cydia, by Jay Freeman" class="left" style="float: left; margin: 5px 20px 0;" /&gt;
+&lt;p&gt;AlbumSnapper is a tweak for jailbroken iOS devices that adds an album selection feature to the stock Apple camera app, allowing you to quickly organize your pictures and create new albums on the fly.&lt;/p&gt;</description><content>&lt;h4 id="legacy-projects"&gt;legacy projects&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://www.google.com/search?q=RadioEnhancer"&gt;RadioEnhancer&lt;/a&gt; (aka &lt;a href="https://lifehacker.com/pandoraenhancer-for-chrome-removes-ads-adds-desktop-no-5854169"&gt;PandoraEnhancer&lt;/a&gt;)&lt;/p&gt;
+&lt;img src="http://brandon-sachs.com/img/radioenhancer.png" alt="RadioEnahncer" class="left" style="float: left; margin: 5px 20px 0; border-radius: 4px;" /&gt;
+&lt;p&gt;Google Chrome extension that removes ads, scrobbles to Last.fm, displays song change notifications, and improves Pandora&amp;rsquo;s awesome HTML5 interface.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been featured on sites such as &lt;a href="http://lifehacker.com/5854169/pandoraenhancer-for-chrome-removes-ads-adds-desktop-notifications-for-song-changes"&gt;Lifehacker&lt;/a&gt; and a &lt;a href="https://www.google.com/search?q=pandoraenhancer"&gt;whole lot of others&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;At it&amp;rsquo;s peak, RadioEnhancer had over 63,000 active users.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://www.google.com/search?q=AlbumSnapper"&gt;AlbumSnapper&lt;/a&gt;&lt;/p&gt;
+&lt;img src="http://brandon-sachs.com/img/cydia.png" alt="Cydia, by Jay Freeman" class="left" style="float: left; margin: 5px 20px 0;" /&gt;
+&lt;p&gt;AlbumSnapper is a tweak for jailbroken iOS devices that adds an album selection feature to the stock Apple camera app, allowing you to quickly organize your pictures and create new albums on the fly.&lt;/p&gt;
+&lt;p&gt;I spent a week reversing Camera.app for this, it was a ton of fun!&lt;/p&gt;
+&lt;p&gt;AlbumSnapper was featured on sites such as &lt;a href="http://www.idownloadblog.com/2014/05/17/albumsnapper/"&gt;iDownloadBlog&lt;/a&gt;, &lt;a href="http://modmyi.com/content/14979-albumsnapper-lets-you-easily-organize-your-photos-you-take-them.html"&gt;ModMyI&lt;/a&gt;, &lt;a href="https://www.google.com/search?q=AlbumSnapper"&gt;and more&lt;/a&gt;. It can be found in the default repositories used by &lt;a href="http://en.wikipedia.org/wiki/Cydia"&gt;Cydia&lt;/a&gt; for $0.99.&lt;/p&gt;
+&lt;p&gt;Reading this, using a very old version of iOS (6/7) for some reason, and want a free copy? Drop me a line!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://github.com/zephster/comiCal"&gt;comiCal&lt;/a&gt;&lt;/p&gt;
+&lt;img src="http://brandon-sachs.com/img/python.png" alt="Snake Jazz" class="left" style="float: left; margin: 0px 20px 0;" /&gt;
+&lt;p&gt;Looks up comic release dates from supported publishers websites (DC, Marvel, Image) and puts them on your Google Calendar.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://www.google.com/search?q=cydia&amp;#43;%22matchinmusic%22"&gt;MatchInMusic&lt;/a&gt;, &lt;a href="https://www.google.com/search?q=cydia&amp;#43;%22in&amp;#43;a&amp;#43;minute%22"&gt;In A Minute&lt;/a&gt;, &lt;a href="https://github.com/zephster"&gt;etc&lt;/a&gt;..&lt;/p&gt;
+&lt;/blockquote&gt;</content></item></channel></rss>
