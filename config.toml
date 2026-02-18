@@ -2,7 +2,10 @@ title = "brandon sachs"
 baseurl = "https://zephster.github.io"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 5
+
+[pagination]
+  pagerSize = 5
+  path = 'page'
 
 [params]
   # dir name of your main content (default is `content/posts`).
